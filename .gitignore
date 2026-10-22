@@ -1,0 +1,6 @@
+.venv/
+data/
+lerobot_data/
+outputs/
+__pycache__/
+*.pyc
